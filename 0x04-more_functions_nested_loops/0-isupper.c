@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int _isuppear(int c)
+int _isupper(int c)
 {
 	if (isupper(c))
 		return (1);
